@@ -2,6 +2,10 @@
 
 A Streamlit dashboard built with Polars and real, user-collected JobsDB CSV data.
 
+## Dashboard preview
+
+![Hong Kong Tech Job Market dashboard](assets/dashboard-overview.png)
+
 ## Data layout
 
 ```text
