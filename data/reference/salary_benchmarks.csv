@@ -1,0 +1,33 @@
+year,role_family,source,scope,salary_low_monthly_hkd,salary_mid_monthly_hkd,salary_high_monthly_hkd,source_url
+2018,Data Engineer,Hays,Digital technology annual range; midpoint derived,25000,45000,65000,https://cthr.ctgoodjobs.hk/doc/trends/2018-hays.pdf
+2018,Data Scientist,Hays,Digital technology annual range; midpoint derived,20000,47500,75000,https://cthr.ctgoodjobs.hk/doc/trends/2018-hays.pdf
+2019,Data Engineer,Hays,Digital technology annual range; midpoint derived,40000,52500,65000,https://www.hays-china.cn/documents/35691/92557/Hays%2BAsia%2BSalary%2BGuide%2B2019%2BEN.pdf/00c7c987-12e6-ea25-1f0b-1d0e243d6560
+2019,Data Scientist,Hays,Digital technology annual range; midpoint derived,40000,52500,65000,https://www.hays-china.cn/documents/35691/92557/Hays%2BAsia%2BSalary%2BGuide%2B2019%2BEN.pdf/00c7c987-12e6-ea25-1f0b-1d0e243d6560
+2019,Data Analyst,Hays,Digital technology annual range; midpoint derived,32000,43500,55000,https://www.hays-china.cn/documents/35691/92557/Hays%2BAsia%2BSalary%2BGuide%2B2019%2BEN.pdf/00c7c987-12e6-ea25-1f0b-1d0e243d6560
+2020,Data Engineer,Hays,Digital technology annual range; midpoint derived,35000,50000,65000,https://www.hays.com.my/documents/276768/0/2020%2BHays%2BAsia%2BSalary%2BGuide.pdf
+2020,Data Scientist,Hays,Digital technology annual range; midpoint derived,35000,50000,65000,https://www.hays.com.my/documents/276768/0/2020%2BHays%2BAsia%2BSalary%2BGuide.pdf
+2021,Data Engineer,Hays,Analytics and big data annual range; midpoint derived,35000,50000,65000,https://www.hays.com.my/documents/276768/0/2021%2BHays%2BAsia%2BSalary%2BGuide.pdf
+2021,Data Scientist,Hays,Analytics and big data annual range; midpoint derived,35000,50000,65000,https://www.hays.com.my/documents/276768/0/2021%2BHays%2BAsia%2BSalary%2BGuide.pdf
+2022,Data Engineer,Randstad,Information technology,35000,55000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2021-11/randstad-hong-kong-2022-market-outlook-salary-snapshot-report.pdf
+2022,Data Scientist,Randstad,Information technology,35000,65000,85000,https://www.randstad.com.hk/s3fs-media/hk/public/2021-11/randstad-hong-kong-2022-market-outlook-salary-snapshot-report.pdf
+2022,AI Engineer,Randstad,Information technology,40000,60000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2021-11/randstad-hong-kong-2022-market-outlook-salary-snapshot-report.pdf
+2023,Data Engineer,Randstad,Information technology,35000,60000,80000,https://www.randstad.com.hk/s3fs-media/hk/public/2022-12/randstad-hong-kong-2023-market-and-salary-trends-digital-report.pdf
+2023,Data Scientist,Randstad,Information technology,35000,65000,85000,https://www.randstad.com.hk/s3fs-media/hk/public/2022-12/randstad-hong-kong-2023-market-and-salary-trends-digital-report.pdf
+2023,AI Engineer,Randstad,Information technology,40000,60000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2022-12/randstad-hong-kong-2023-market-and-salary-trends-digital-report.pdf
+2024,Data Engineer,Randstad,Information technology,38000,60000,80000,https://www.randstad.com.hk/s3fs-media/hk/public/2024-02/randstad-hong-kong-2024-market-outlook-salary-guide-technology.pdf
+2024,Data Scientist,Randstad,Information technology,35000,65000,85000,https://www.randstad.com.hk/s3fs-media/hk/public/2024-02/randstad-hong-kong-2024-market-outlook-salary-guide-technology.pdf
+2024,AI Engineer,Randstad,Information technology,35000,55000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2024-02/randstad-hong-kong-2024-market-outlook-salary-guide-technology.pdf
+2024,Data Analyst,Randstad,Technology in finance - business intelligence / data analyst,32000,55000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2024-02/randstad-hong-kong-2024-market-outlook-salary-guide-technology.pdf
+2025,Data Engineer,Randstad,Information technology - financial services,45000,60000,85000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2025,Data Scientist,Randstad,Information technology - financial services,40000,65000,85000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2025,AI Engineer,Randstad,Information technology - financial services,40000,55000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2025,Business Analyst,Randstad,Information technology - financial services,40000,60000,80000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2025,Data Analyst,Randstad,Information technology - financial services,32000,55000,75000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2025,Software Engineer,Randstad,Engineering - senior / software engineer,28000,35000,40000,https://www.randstad.com.hk/s3fs-media/hk/public/2025-01/Randstad-Hong-Kong-SAR-2025-Job-Market-Outlook-Salary-Guide.pdf
+2026,Data Engineer,Robert Half,Technology starting salary percentiles,50000,80000,115000,https://www.roberthalf.com/hk/en/job-details/data-scientist
+2026,Data Scientist,Robert Half,Technology starting salary percentiles,60000,80000,150000,https://www.roberthalf.com/hk/en/job-details/data-scientist
+2026,AI Engineer,Robert Half,Technology starting salary percentiles,50000,85000,120000,https://www.roberthalf.com/hk/en/job-details/data-scientist
+2026,Quant,Robert Half,Technology starting salary percentiles,80000,108333,166667,https://www.roberthalf.com/hk/en/insights/salary-guide/technology
+2026,Business Analyst,Robert Half,Technology starting salary percentiles; annual values converted to monthly,38333,64167,90000,https://www.roberthalf.com/hk/en/job-details/business-analyst
+2026,Data Analyst,Robert Half,Technology related-position starting salary percentiles; annual values converted to monthly,45000,77500,110000,https://www.roberthalf.com/hk/en/job-details/data-scientist
+2026,Full Stack Developer,Robert Half,Technology starting salary percentiles; annual values converted to monthly,60000,92500,125000,https://www.roberthalf.com/hk/en/job-details/full-stack-developer

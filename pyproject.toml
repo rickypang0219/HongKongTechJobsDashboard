@@ -1,0 +1,33 @@
+[project]
+name = "hk-tech-job-market-dashboard"
+version = "0.1.0"
+description = "Hong Kong technology labour-market analytics MVP"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "playwright>=1.60.0",
+    "plotly>=6.8.0",
+    "polars>=1.42.0",
+    "pytrends>=4.9.2",
+    "streamlit>=1.58.0",
+]
+
+[project.scripts]
+hk-tech-job-market-dashboard = "hk_tech_job_market_dashboard.cli:main"
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["uv_build>=0.9.25,<0.10.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.15.20",
+]
