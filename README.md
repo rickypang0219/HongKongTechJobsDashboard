@@ -39,6 +39,40 @@ uv run hk-tech-job-market-dashboard all
 The scraper writes to `data/raw/` by default. Existing raw CSVs are appended by
 the scraper and read by the cleaning pipeline from the same paths.
 
+## Run the scraper
+
+```bash
+uv run python -m scraper.main \
+  --keywords "AI Engineer" "Data Engineer" "Quant Developer" \
+  --pages 10 \
+  --delay 0 \
+  --headless true
+```
+
+The command appends raw results to:
+
+- `data/raw/jobsdb_job_listings.csv`
+- `data/raw/jobsdb_search_snapshots.csv`
+
+After scraping, rebuild the dashboard-ready CSV files:
+
+```bash
+uv run hk-tech-job-market-dashboard process-jobsdb
+```
+
+## Daily GitHub Actions refresh
+
+The workflow at `.github/workflows/daily-scrape.yml` runs every day at 08:30
+Hong Kong time. It installs Playwright Chromium, runs the scraper, rebuilds the
+cleaned files, and commits changed CSV files back to the current repository.
+It can also be started manually from **Actions → Daily JobsDB data refresh →
+Run workflow**.
+
+The repository must allow GitHub Actions to write to the repository. Under
+**Settings → Actions → General → Workflow permissions**, select **Read and
+write permissions**. A protected default branch may require a separate
+data-update branch or pull-request workflow instead of a direct push.
+
 ## Quality checks
 
 ```bash
