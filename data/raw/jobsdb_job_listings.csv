@@ -1265,3 +1265,117 @@ snapshot_date,source_job_id,job_title,company,location,posted_date,salary_low,sa
 2026-07-09,92636346,Multi-Asset Arbitrage Technology Engineer,Balyasny,Hong Kong SAR,2026-06-10,,,Python|SQL|AWS|C++|Rust|Kubernetes|Kafka|Snowflake|React,https://hk.jobsdb.com/job/92636346
 2026-07-09,93182023,Mid-Senior Front Office Developer (Rust/C++),IO Tech Solutions Limited,Hong Kong SAR,2026-07-08,,,C++|Rust|Linux,https://hk.jobsdb.com/job/93182023
 2026-07-09,91351716,Senior Trading Quant Researcher - Eka Finance,Eka Finance,Hong Kong SAR,,,,Python|C++,https://hk.jobsdb.com/job/91351716
+2026-07-10,93228858,Agentic AI Engineer,Green Tomato Limited,"Kowloon Bay, Kwun Tong District",2026-07-04,,,,https://hk.jobsdb.com/job/93228858
+2026-07-10,93238491,Senior Software Engineer - AI,Virtual Gaming Technology Limited,"Tsim Sha Tsui, Yau Tsim Mong District",2026-07-08,,,SQL|AWS|Azure|GCP|LLM|React|TypeScript,https://hk.jobsdb.com/job/93238491
+2026-07-10,93202055,AI Engineer,Pacific Prime Insurance Brokers Ltd,"Ngau Tau Kok, Kwun Tong District",2026-07-09,,,Python|AWS|Docker|Linux|Machine Learning|Deep Learning|LLM|RAG|LangChain,https://hk.jobsdb.com/job/93202055
+2026-07-10,93005381,AI Transformation Engineer,Main Plan Limited,Kwun Tong District,2026-06-30,,,Machine Learning|Computer Vision,https://hk.jobsdb.com/job/93005381
+2026-07-10,93197595,Associate AI Engineer (Ref: B020),Jebsen & Co Ltd,"Causeway Bay, Wan Chai District",2026-07-09,,,AWS|Git|LLM|RAG,https://hk.jobsdb.com/job/93197595
+2026-07-10,93148577,AI/Data Analytic Engineer,Avnet Technology Hong Kong Limited,"Kowloon Bay, Kwun Tong District (Hybrid)",2026-07-10,,,Python|SQL|Azure|Machine Learning|Power BI,https://hk.jobsdb.com/job/93148577
+2026-07-10,93221829,AI/ML Engineer - Data Analytics (Banking),Peoplebank Hong Kong Limited,Hong Kong Island,2026-07-09,,,Python|SQL|GCP|Machine Learning|LLM|RAG|Tableau,https://hk.jobsdb.com/job/93221829
+2026-07-10,93141320,Senior AI Solution Engineer (Ref: 26070602),CIAO International Limited,"Ngau Tau Kok, Kwun Tong District",2026-07-07,,,Python|SQL|AWS|Docker|Kubernetes|Azure|NLP|Computer Vision|LLM|RAG|LangChain|TensorFlow|PyTorch,https://hk.jobsdb.com/job/93141320
+2026-07-10,92803830,AI Lead / AI Engineer (Fintech),TEKsystems,Hong Kong Island,2026-06-19,55000,65000,Machine Learning|LangChain|TensorFlow|PyTorch,https://hk.jobsdb.com/job/92803830
+2026-07-10,92782161,AI Engineer / AI Engineering Lead (Insurance),WallStone Partners & Company Limited,"San Po Kong, Wong Tai Sin District",2026-06-18,60000,80000,Python|Java|Docker|Kubernetes|Azure|React,https://hk.jobsdb.com/job/92782161
+2026-07-10,92718740,Senior AI Solution Engineer (Ref: 26061502),CIAO International Limited,"Ngau Tau Kok, Kwun Tong District",2026-06-15,,,Python|SQL|AWS|Docker|Kubernetes|Azure|NLP|Computer Vision|LLM|RAG|LangChain|TensorFlow|PyTorch,https://hk.jobsdb.com/job/92718740
+2026-07-10,93223101,"AI Data Engineer (Retail Bank, RAG/LLM), 50k",Michael Page International (HK) Ltd,Central and Western District,2026-07-04,50000,50000,Python|SQL|Machine Learning|LLM|RAG,https://hk.jobsdb.com/job/93223101
+2026-07-10,92983059,Machine Learning Engineer (Computer Vision),Kooick Inc,Hong Kong Island (Remote),2026-06-30,25000,35000,Python|Machine Learning|Computer Vision|PyTorch,https://hk.jobsdb.com/job/92983059
+2026-07-10,93150848,Full-Stack AI Engineer,Liminal AI Limited,"Kwun Tong, Kwun Tong District (Hybrid)",2026-07-07,25000,30000,Python|SQL|AWS|GCP|Git|LLM|React,https://hk.jobsdb.com/job/93150848
+2026-07-10,93213608,AI System Engineer (Cyberport site),OneAsia Network Limited,"Cyberport, Southern District",2026-07-09,,,Docker|Kubernetes|TensorFlow|PyTorch,https://hk.jobsdb.com/job/93213608
+2026-07-10,92802338,AI Researcher,Logistics and Supply Chain MultiTech R&D Centre Limited,"Cyberport, Southern District",2026-07-09,,,Python|SQL|Docker|Machine Learning|LLM|RAG|LangChain|PyTorch,https://hk.jobsdb.com/job/92802338
+2026-07-10,92912669,LLM Engineer (Data and Optimization),"TCL Corporate Research (Hong Kong) Co., Limited","Science Park, Tai Po District",2026-06-24,,,Python|Spark|C++|Docker|Linux|Machine Learning|Deep Learning|LLM|RAG|FastAPI|PyTorch,https://hk.jobsdb.com/job/92912669
+2026-07-10,92897544,Agentic Artificial Intelligence ( AI ) Analyst Programmer / Developer,Acton Consulting Limited,Kowloon,2026-06-24,,,Python|AWS|Kubernetes|Azure|GCP|Machine Learning|NLP|Computer Vision|LLM|RAG,https://hk.jobsdb.com/job/92897544
+2026-07-10,93115014,AI Engineer,Hays Hong Kong Limited,Central and Western District,2026-07-04,50000,70000,Python|Machine Learning,https://hk.jobsdb.com/job/93115014
+2026-07-10,92806279,AI Transformation Specialist,OrbusNeich Medical Company Limited,"Science Park, Tai Po District",2026-06-19,,,Python|SQL,https://hk.jobsdb.com/job/92806279
+2026-07-10,92987348,AI Engineer,SmarTone Telecommunications Limited,"Ngau Tau Kok, Kwun Tong District",2026-06-29,,,Python|AWS|Azure|Machine Learning|TensorFlow|PyTorch,https://hk.jobsdb.com/job/92987348
+2026-07-10,89602996,AI Engineer Lead / AI Engineer,Automated Systems (HK) Ltd,Hong Kong SAR,2026-07-06,1001,5000,Python|Machine Learning|RAG|LangChain,https://hk.jobsdb.com/job/89602996
+2026-07-10,93212768,AI & Automation Developer,Nolan Consultants Limited,Kowloon (Hybrid),2026-07-09,,,Python|Azure|Machine Learning|LLM|Excel,https://hk.jobsdb.com/job/93212768
+2026-07-10,92989259,(Junior /Senior) AI Engineer / AI Specialist,Pathsight Limited,Hong Kong Island,2026-06-29,25000,37000,Python|SQL|C++|Azure|GCP|Machine Learning|Deep Learning|Computer Vision|LLM|RAG|LangChain|React|TensorFlow|PyTorch,https://hk.jobsdb.com/job/92989259
+2026-07-10,93174985,AI Lab Solution Architect,Cummins Hong Kong Limited,"Science Park, Tai Po District",2026-07-08,55000,70000,LLM,https://hk.jobsdb.com/job/93174985
+2026-07-10,93148016,Senior Software Engineer – AI Solutions,Don Nelson Recruitment Limited,Hong Kong Island,2026-07-07,,,Python|SQL|AWS|Java|Go|Docker|Kubernetes|Azure|GCP|Machine Learning|Deep Learning|React|TypeScript|TensorFlow|PyTorch,https://hk.jobsdb.com/job/93148016
+2026-07-10,92984250,AI & Technology Specialist – Smart Industry & Home Innovation,Hong Kong Shanghai Alliance Holdings Limited,"Tsing Yi, Kwai Tsing District",2026-06-28,,,,https://hk.jobsdb.com/job/92984250
+2026-07-10,90229427,AI Engineer,ESD Services Limited (ESDlife),"Hung Hom, Kowloon City District",2026-06-22,,,Python|AWS|Java|C#|Docker|Azure|Machine Learning|LLM|RAG|TensorFlow|PyTorch,https://hk.jobsdb.com/job/90229427
+2026-07-10,93184758,AI System Engineer,Octopus Holdings Limited,"Kowloon Bay, Kwun Tong District",2026-07-10,,,Python|Java|LLM|RAG,https://hk.jobsdb.com/job/93184758
+2026-07-10,92897999,AI Engineer,Dah Chong Hong Holdings Limited,"Kowloon Bay, Kwun Tong District",2026-06-24,,,Python|SQL|AWS|Databricks|Azure|Git|LLM|RAG|LangChain,https://hk.jobsdb.com/job/92897999
+2026-07-10,86613494,Registered Nurse (24-hour Outpatient and Emergency),Gleneagles Hospital Hong Kong,Southern District,2026-07-09,,,,https://hk.jobsdb.com/job/86613494
+2026-07-10,78561067,Registered Nurse (Medical / Oncology Ward),Gleneagles Hospital Hong Kong,Southern District,2026-07-09,,,,https://hk.jobsdb.com/job/78561067
+2026-07-10,82308048,Enrolled Nurse (Medical / Oncology Ward),Gleneagles Hospital Hong Kong,Southern District,2026-07-09,,,,https://hk.jobsdb.com/job/82308048
+2026-07-10,88265712,Java Analyst Programmer / Senior Analyst Programmer,Automated Systems (HK) Ltd,Hong Kong SAR,2026-07-06,1001,5000,Java|React,https://hk.jobsdb.com/job/88265712
+2026-07-10,88265235,Assistant Project Manager / Project Manager (Software development),Automated Systems (HK) Ltd,Hong Kong SAR,2026-07-06,1001,5000,,https://hk.jobsdb.com/job/88265235
+2026-07-10,84171953,"Teller / Senior Teller, Consumer Branch",China Construction Bank (Asia) Corporation Limited,Hong Kong SAR,2026-07-04,1001,5000,Excel,https://hk.jobsdb.com/job/84171953
+2026-07-10,85869575,Project Manager,Hip Hing Construction Co Ltd,Hong Kong SAR,2026-07-06,,,,https://hk.jobsdb.com/job/85869575
+2026-07-10,82965510,Assistant Retail Lending Manager [Ref: ARLM-ALAI],"Nanyang Commercial Bank, Limited","Mong Kok, Yau Tsim Mong District",2026-07-03,,,,https://hk.jobsdb.com/job/82965510
+2026-07-10,87930023,Senior Premier Relationship Manager (various branches),OCBC Bank (Hong Kong) Limited,Hong Kong SAR,2026-07-04,,,,https://hk.jobsdb.com/job/87930023
+2026-07-10,84804208,Financial Management Manager - Asset & Liability Management,"Nanyang Commercial Bank, Limited",Central and Western District,2026-07-07,,,SAS,https://hk.jobsdb.com/job/84804208
+2026-07-10,82969127,"Manager, Relationship Management",Shanghai Commercial Bank Ltd,"Central, Central and Western District",2026-07-02,,,,https://hk.jobsdb.com/job/82969127
+2026-07-10,87486116,Credit & Portfolio Risk Management - AVP - Transformation - Hong Kong,Citibank (Hong Kong) Limited,"Kowloon City, Kowloon City District",,,,SAS,https://hk.jobsdb.com/job/87486116
+2026-07-10,87484585,"Vice President, Securities & Derivatives Sr Manager - (Hybrid)",Citibank (Hong Kong) Limited,"Kowloon City, Kowloon City District (Hybrid)",2026-07-10,,,,https://hk.jobsdb.com/job/87484585
+2026-07-10,87787204,System Support,First Shanghai Investments Ltd,Central and Western District,2026-07-04,,,,https://hk.jobsdb.com/job/87787204
+2026-07-10,75092246,"Associate, Remittance",Shanghai Commercial Bank Ltd,"Kwai Hing, Kwai Tsing District",2026-07-08,,,Excel,https://hk.jobsdb.com/job/75092246
+2026-07-10,87484169,Equities Electronic Trading - Senior Software Engineer,Citibank (Hong Kong) Limited,"Kowloon City, Kowloon City District",,,,Java|C++|C#,https://hk.jobsdb.com/job/87484169
+2026-07-10,87482404,"Officer, Service Analyst (Contact Center)",Citibank (Hong Kong) Limited,"Kowloon City, Kowloon City District",,,,,https://hk.jobsdb.com/job/87482404
+2026-07-10,84773661,"AVP / VP, Client Advisor - Private Banking",Taishin International Bank Co Ltd,"Tsim Sha Tsui, Yau Tsim Mong District",2026-07-07,,,,https://hk.jobsdb.com/job/84773661
+2026-07-10,78272343,Project Engineer,Media-Go Engineering Ltd,"Kwun Tong, Kwun Tong District",,,,Go,https://hk.jobsdb.com/job/78272343
+2026-07-10,85869930,"Manager, IT Audit",Shanghai Commercial Bank Ltd,"Kwun Tong, Kwun Tong District",2026-06-13,,,,https://hk.jobsdb.com/job/85869930
+2026-07-10,78267275,"Manager, Credit Analysis (Corporate Banking Division)",Shanghai Commercial Bank Ltd,"Central, Central and Western District",2026-07-02,,,,https://hk.jobsdb.com/job/78267275
+2026-07-10,87236879,"Equity OTC Exotic Trade Support, Associate",Morgan Stanley Asia Limited,Hong Kong SAR,,,,,https://hk.jobsdb.com/job/87236879
+2026-07-10,87486179,"Client Service Specialist, Consumer Banking",Citibank (Hong Kong) Limited,"Kowloon City, Kowloon City District",2026-07-10,1,2019,,https://hk.jobsdb.com/job/87486179
+2026-07-10,87007050,"Officer, Credit Policy & Project Management (Project Focused)",Shanghai Commercial Bank Ltd,"North Point, Eastern District",2026-06-30,,,Python|SQL|Excel|SAS,https://hk.jobsdb.com/job/87007050
+2026-07-10,78552033,Sales Manager or Sales Executive - Education Market (AV/IT Solution),Media-Go Engineering Ltd,"Kwun Tong, Kwun Tong District",,,,Go,https://hk.jobsdb.com/job/78552033
+2026-07-10,77236402,Customer Service Representative (Call Centre),Shanghai Commercial Bank Ltd,"Kwai Hing, Kwai Tsing District",2026-07-01,,,Excel,https://hk.jobsdb.com/job/77236402
+2026-07-10,87417079,Senior Digital Marketing Officer (New project - Cashback),Hong Kong Technology Venture Company Limited,"Tseung Kwan O, Sai Kung District",2026-07-06,,,,https://hk.jobsdb.com/job/87417079
+2026-07-10,84220942,"Associates, Investment Products (Funds Team)",Shanghai Commercial Bank Ltd,"Tsim Sha Tsui, Yau Tsim Mong District",2026-07-01,,,,https://hk.jobsdb.com/job/84220942
+2026-07-10,87786948,"AM / M, Business Operation Risk Management (General Products & Services)",Shanghai Commercial Bank Ltd,"Tsim Sha Tsui, Yau Tsim Mong District",2026-07-08,,,,https://hk.jobsdb.com/job/87786948
+2026-07-10,83039498,建造工程監督 I,Hip Hing Construction Co Ltd,Hong Kong SAR,2026-06-16,,,,https://hk.jobsdb.com/job/83039498
+2026-07-10,82930938,Engineer,Hip Hing Construction Co Ltd,Hong Kong SAR,2026-06-22,,,,https://hk.jobsdb.com/job/82930938
+2026-07-10,93229936,Data Engineer,Gemini Personnel Limited,"Central, Central and Western District",2026-07-08,,,SQL|Excel|Tableau,https://hk.jobsdb.com/job/93229936
+2026-07-10,93219705,Data Engineer,HKT,"Quarry Bay, Eastern District",2026-07-08,,,Python|SQL|AWS|Azure|GCP|Machine Learning|Power BI|Tableau,https://hk.jobsdb.com/job/93219705
+2026-07-10,93220456,Data Engineer / Senior Data Engineer (MS SQL - SSAS Focus),PCCW Services Limited,"Causeway Bay, Wan Chai District",2026-07-08,,,Python|SQL|Java|Docker|Snowflake|Power BI,https://hk.jobsdb.com/job/93220456
+2026-07-10,93176610,Data Analyst or Data Engineer - 3 x Openings,Acton Consulting Limited,Kowloon,2026-07-08,,,Python|SQL|AWS|Spark|Kafka|Azure,https://hk.jobsdb.com/job/93176610
+2026-07-10,92696628,Data Engineer,EDPS Systems Limited,"Wan Chai, Wan Chai District",2026-07-09,,,Python|SQL|AWS|Airflow|dbt|Git|NLP|LLM|Power BI|Tableau|TensorFlow|PyTorch,https://hk.jobsdb.com/job/92696628
+2026-07-10,93177352,Data Engineer,KOS International Limited,Central and Western District,2026-07-08,,,SQL|Excel|Tableau,https://hk.jobsdb.com/job/93177352
+2026-07-10,93176997,"Automation Analyst(RPA, AI, python), Data Engineer (Python, Spark, AWS)",Leadership Solutions Limited,Hong Kong SAR,2026-07-08,30000,40000,Python|SQL|AWS|Spark|RAG|LangChain,https://hk.jobsdb.com/job/93176997
+2026-07-10,93115911,Data Engineer,IT Channel (Asia) Limited,"Quarry Bay, Eastern District",2026-07-04,,,Python|Spark|PySpark|Kafka|Databricks|Azure|Machine Learning,https://hk.jobsdb.com/job/93115911
+2026-07-10,93191268,Assistant Data Engineer,Peoplebank Hong Kong Limited,"Kowloon City, Kowloon City District",2026-07-08,,,Python|Power BI,https://hk.jobsdb.com/job/93191268
+2026-07-10,92694119,Technology Consulting - AI & Data - Master Data Management Lead - Hong Kong,EY,"Quarry Bay, Eastern District",2026-07-10,,,AWS|Go|Azure|GCP,https://hk.jobsdb.com/job/92694119
+2026-07-10,93127560,Data Engineer,Pathsight Limited,Hong Kong SAR,2026-07-06,,,SQL|Spark|Machine Learning|Excel|Power BI|Tableau,https://hk.jobsdb.com/job/93127560
+2026-07-10,93033974,Data Scientist / Senior Data Scientist,HKT,Hong Kong Island,2026-07-01,,,Python|SQL|AWS|Azure|GCP|Machine Learning|LLM|RAG,https://hk.jobsdb.com/job/93033974
+2026-07-10,93197783,"Data Engineering, Banking (Contract)",Talentquest HR Limited,Hong Kong Island,2026-07-09,,,Python|SQL|PySpark|C++|Databricks|Azure,https://hk.jobsdb.com/job/93197783
+2026-07-10,92959908,Senior Data Engineer (1-year contract),CLP Power Hong Kong Limited 中華電力有限公司,"Kai Tak, Kowloon City District",2026-06-26,,,Python|SQL|Spark|Databricks|Azure|RAG|LangChain,https://hk.jobsdb.com/job/92959908
+2026-07-10,93144707,Senior Data Engineer,Protiviti Hong Kong Co. Limited,Central and Western District,2026-07-10,30000,35000,Python|Databricks|Azure,https://hk.jobsdb.com/job/93144707
+2026-07-10,93165775,Data Warehouse Engineer,Red Begonia Limited,Central and Western District,2026-07-07,,,SQL|Spark|Airflow,https://hk.jobsdb.com/job/93165775
+2026-07-10,93238162,Associate Sourcing & Procurement Representative (Data Analytics),Hong Kong Disneyland,"Lantau Island, Islands District",2026-06-24,5001,10000,Excel|Power BI,https://hk.jobsdb.com/job/93238162
+2026-07-10,93114926,Data Engineer (Public Sector),Taylor Coulter,"Kowloon Bay, Kwun Tong District",2026-07-04,,,Python|SQL|Spark|Go|Kafka|Databricks|Azure|Power BI,https://hk.jobsdb.com/job/93114926
+2026-07-10,93030181,"Data Engineer (AI), contract",Morgan Mckinley Limited,Central and Western District (Hybrid),2026-07-01,,,Python|SQL|Spark|Databricks|Azure|RAG|LangChain,https://hk.jobsdb.com/job/93030181
+2026-07-10,93225560,Senior Data Engineer,Istellar Company Limited,"Tai Koo, Eastern District",2026-07-10,20000,25000,Power BI,https://hk.jobsdb.com/job/93225560
+2026-07-10,92989272,Cloud Data Engineer (Azure data platform),Newrecs Consultancy Limited,"Kowloon Bay, Kwun Tong District",2026-06-29,35000,50000,Python|Spark|Go|Databricks|Azure|Power BI,https://hk.jobsdb.com/job/92989272
+2026-07-10,92987081,Data Engineer,Pathsight Limited,Hong Kong SAR,2026-06-28,,,SQL|Spark|Machine Learning|Excel|Power BI|Tableau,https://hk.jobsdb.com/job/92987081
+2026-07-10,92767857,Enterprise Data Engineer (Financial Project),Robert Walters (HK) Ltd,Central and Western District,2026-06-17,,,Python|SQL|Java|C++|Airflow|Excel|Tableau,https://hk.jobsdb.com/job/92767857
+2026-07-10,93224155,Senior / Data Analyst (Data Management),Bank of China (Hong Kong) Limited,"Fo Tan, Sha Tin District",2026-07-09,,,Python|SQL,https://hk.jobsdb.com/job/93224155
+2026-07-10,93044541,Quant Developer,Dark Ice Research Limited,Wan Chai District,2026-07-01,40000,60000,Python|SQL|Go,https://hk.jobsdb.com/job/93044541
+2026-07-10,92649912,量化系統開發工程師 (Quantitative Developer - Trading System),China DIFI Securities Limited,Wan Chai District,2026-06-11,25000,35000,Python|SQL|Java|C++,https://hk.jobsdb.com/job/92649912
+2026-07-10,93112881,AI Quantitative Trading Researcher,凱銀證券有限公司,"Sheung Wan, Central and Western District",2026-07-04,,,Machine Learning|RAG,https://hk.jobsdb.com/job/93112881
+2026-07-10,93135780,Quant Trader - Crypto / CTA,Xin Xiamen Capital Management (Hong Kong) Pte Limited,Central and Western District,2026-07-06,,,Python|Linux,https://hk.jobsdb.com/job/93135780
+2026-07-10,93202923,Java Software Engineer - Tier-1 Derivatives Risk Systems - J12973,Pinpoint Asia,"Admiralty, Central and Western District",2026-07-09,1,12973,Python|Java|C++|Linux|React,https://hk.jobsdb.com/job/93202923
+2026-07-10,92914767,Front Office Python Developer,Eclipse Options (HK) Limited,Hong Kong Island,2026-06-25,,,Python|React,https://hk.jobsdb.com/job/92914767
+2026-07-10,92649510,AI Quantitative Trading Researcher （人工智能量化交易研究员）,PINSEN TECHNOLOGY LIMITED,"Kowloon Bay, Kwun Tong District",2026-06-11,,,Machine Learning|RAG,https://hk.jobsdb.com/job/92649510
+2026-07-10,93242466,Trading Platform System Associate - Top FI Firm!,Michael Page International (HK) Ltd,Central and Western District,2026-07-01,35000,40000,,https://hk.jobsdb.com/job/93242466
+2026-07-10,93098025,Quantitative Trading,Shanxi Securities International Financial Holdings Limited,"Admiralty, Central and Western District",2026-07-03,,,,https://hk.jobsdb.com/job/93098025
+2026-07-10,93193807,"Algorithmic Execution Quant (Equities), Director",Citibank (Hong Kong) Limited,Hong Kong SAR,2026-07-08,,,Java|C#,https://hk.jobsdb.com/job/93193807
+2026-07-10,93100564,Research Associate (Quantitative),Kantar Hong Kong Limited,"North Point, Eastern District (Hybrid)",2026-07-03,,,Excel,https://hk.jobsdb.com/job/93100564
+2026-07-10,93116732,Quant Investment Researcher,Michael Page International (HK) Ltd,Central and Western District,2026-07-04,,,Python|SQL|Machine Learning,https://hk.jobsdb.com/job/93116732
+2026-07-10,93045147,Quant analyst,Dark Ice Research Limited,Wan Chai District,2026-07-01,35000,50000,Python|SQL|Machine Learning|NLP|LLM,https://hk.jobsdb.com/job/93045147
+2026-07-10,92940427,Head of Quant Research(open for PM background),Michael Page International (HK) Ltd,Central and Western District,2026-07-10,1500000,2500000,Python|Java|C++|Machine Learning,https://hk.jobsdb.com/job/92940427
+2026-07-10,92728444,(Senior) C++ Developer - Global High-Frequency Trading Firm (Relocation) -J12714,Pinpoint Asia,"Admiralty, Central and Western District",2026-06-16,,,C++|Linux,https://hk.jobsdb.com/job/92728444
+2026-07-10,92696678,Head of Quantitative Trade,Career International AP (Hong Kong) Limited,Yau Tsim Mong District,2026-06-13,150000,220000,Python|SQL|C++,https://hk.jobsdb.com/job/92696678
+2026-07-10,92701833,Junior Quantitative Analyst (AI-Driven),EYuan Technology Limited,Central and Western District,2026-06-13,25000,35000,,https://hk.jobsdb.com/job/92701833
+2026-07-10,92639107,"Analyst, Quant Developer Trade Support",Polymer Capital Hong Kong,Hong Kong SAR,,,,Python|SQL|C#,https://hk.jobsdb.com/job/92639107
+2026-07-10,93211910,AI Java Developer - Digital Asset Firm - HKD$80k-90k + Bonus,DJRecruit Asia,Central and Western District,2026-07-09,80000,90000,Java|Rust,https://hk.jobsdb.com/job/93211910
+2026-07-10,93145696,FX and Interest Rates Derivatives Trader,China Everbright Bank Company Limited,Wan Chai District,2026-07-07,,,Excel,https://hk.jobsdb.com/job/93145696
+2026-07-10,92843491,"Buy Side, Equity Application Support Engineer , up to 50k",Beehire Personnel Limited,Wan Chai District,2026-06-21,,,Linux,https://hk.jobsdb.com/job/92843491
+2026-07-10,93148974,Quantitative Analyst - AVP,Citibank (Hong Kong) Limited,Hong Kong SAR,2026-07-06,,,Python|SQL|Java|C++|C#,https://hk.jobsdb.com/job/93148974
+2026-07-10,89582819,"Quant Prime Brokerage Services C++ Developer , VP",Barclays,Hong Kong SAR,,,,C++|Linux,https://hk.jobsdb.com/job/89582819
+2026-07-10,87412053,Quantitative Analyst - C13 - HONG KONG,Citibank (Hong Kong) Limited,Central and Western District,,,,Java|C#,https://hk.jobsdb.com/job/87412053
+2026-07-10,92901075,"Full Stack Developer (Analyst, Risk & Quant Analytics), Hong Kong",Polymer Capital Hong Kong,Hong Kong SAR,2026-06-24,,,Python|SQL|C#|Docker|Kubernetes|Git|FastAPI|React|TypeScript,https://hk.jobsdb.com/job/92901075
+2026-07-10,90083045,"Trading Analytics Developer, Quantitative Trading",Crypto.com,Hong Kong SAR (Hybrid),,,,Python|SQL|AWS|Java|Kubernetes|Airflow|Kafka|Flink|Snowflake|Linux|RAG|LangChain,https://hk.jobsdb.com/job/90083045
+2026-07-10,92697524,Quant Trader,Amber Group,Hong Kong SAR,2026-06-13,,,Python|Golang,https://hk.jobsdb.com/job/92697524
+2026-07-10,91707763,C++ Developer - Oxford Knight,Oxford Knight,Hong Kong SAR (Hybrid),,,,Python|C++|Rust|Linux,https://hk.jobsdb.com/job/91707763
+2026-07-10,92730361,Senior Developer / Developer,OP Investment Management Limited,Central and Western District,2026-06-16,,,Python|Docker|Azure|Linux|Django|Flask,https://hk.jobsdb.com/job/92730361
