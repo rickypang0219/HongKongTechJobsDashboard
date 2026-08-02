@@ -101,3 +101,6 @@ snapshot_date,search_keyword,source,result_count,search_url,observations_that_da
 2026-08-01,AI Engineer,JobsDB,1221,https://hk.jobsdb.com/ai-engineer-jobs,1,AI Engineer
 2026-08-01,Data Engineer,JobsDB,2174,https://hk.jobsdb.com/data-engineer-jobs,1,Data Engineer
 2026-08-01,Quant Developer,JobsDB,780,https://hk.jobsdb.com/quant-developer-jobs,1,Quant
+2026-08-02,AI Engineer,JobsDB,,https://hk.jobsdb.com/ai-engineer-jobs,1,AI Engineer
+2026-08-02,Data Engineer,JobsDB,3668,https://hk.jobsdb.com/data-engineer-jobs,1,Data Engineer
+2026-08-02,Quant Developer,JobsDB,125,https://hk.jobsdb.com/quant-developer-jobs,1,Quant
